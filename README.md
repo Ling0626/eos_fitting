@@ -1,1 +1,1 @@
-# eos_fitting
+# EOS_fitting

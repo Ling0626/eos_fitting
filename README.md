@@ -9,6 +9,9 @@ In this Task, the program will:
 3. Parameter Optimization: Use `curve_fit` to fit the equation and get the estimated parameters: `a_fit, b_fit, c_fit, d_fit`.
 4. Calculate Equilibrium Volume: Use `minimize_scalar` to minimize the energy function with the estimated parameters. `equilibrium_volume` is the volume at which the energy is minimized, and `equilibrium_energy` is the resulting minimized energy.
 5. Output Results: Print the optimized parameters and the equilibrium volume to the console.
+Fitting parameters:a = 2.5127732749096734, b = -61.34679633323319, c = 84.35766932957905, d = 660.3366172203022
+Equilibrium volume: 19.407061797262735 A^3/atom
+Corresponding equilibrium energy: -2.611244630278661 eV/atom
 
 ## Task2-Visualizing Results
 In this Task, the visualization task aims to：

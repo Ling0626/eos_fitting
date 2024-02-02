@@ -13,7 +13,7 @@ energies = data['Energy (eV/atom)'].values
 
 # Define Birch-Murnaghan equation of state
 def birch_murnaghan(V, a, b, c, d):
-    return a + b * V**(-2/3) + c * V**(2/3) + d * V**(-6/3)
+    return a + b * V**(-2/3) + c * V**(-4/3) + d * V**(-6/3)
 
 # Fit the data using curve_fit
 fit_params, covariance = curve_fit(birch_murnaghan, volumes, energies)

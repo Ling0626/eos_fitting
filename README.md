@@ -1,5 +1,7 @@
 # EOS_fitting
 
+- `eos_fitting.py`: the main program
+- `eos.csv`: the data
 
 ## Task1- Equation of State (EOS) Fitting
 In this Task, the program will:

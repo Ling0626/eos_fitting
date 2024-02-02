@@ -12,6 +12,7 @@ In this Task, the program will:
 
 ## Task2-Visualizing Results
 In this Task, the visualization task aims to：
-1. Plot Energy-Volume Curve: Generate a plot of the fitted energy-volume curve using matplotlib.
+1. Plot Energy-Volume Curve: Generate a plot of the fitted energy-volume curve using `matplotlib`.
 2. Highlight Equilibrium Volume: Indicate the equilibrium volume on the plot.
 3. Quality of Fit: Display the quality of the fit by plotting the actual data points against the fitted curve, allowing for visual assessment of the EOS model's performance.
+![Figure_1](https://github.com/Ling0626/eos_fitting/assets/148604827/1690b30f-f9fd-4699-b9c0-5529fb1991f4)

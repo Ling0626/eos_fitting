@@ -10,7 +10,7 @@ In this Task, the program will:
 4. Calculate Equilibrium Volume: Use `minimize_scalar` to minimize the energy function with the estimated parameters. `equilibrium_volume` is the volume at which the energy is minimized, and `equilibrium_energy` is the resulting minimized energy.
 5. Output Results: Print the optimized parameters and the equilibrium volume to the console.
 
-##Task2-Visualizing Results
+###Task2-Visualizing Results
 In this Task, the visualization task aims to：
 1. Plot Energy-Volume Curve: Generate a plot of the fitted energy-volume curve using matplotlib.
 2. Highlight Equilibrium Volume: Indicate the equilibrium volume on the plot.

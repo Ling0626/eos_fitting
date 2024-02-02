@@ -4,7 +4,6 @@
 - `eos.csv`: the data
 
 ## Task1- Equation of State (EOS) Fitting
-In this Task, the program will:
 
 1. Read Data: Import the volume (V) and energy (E) data from a CSV file.
 2. Define EOS Function: Utilize the simplified Birch-Murnaghan EOS:
@@ -15,7 +14,7 @@ where a, b, c, and d are fitting parameters to be determined.
 6. Output Results: Print the optimized parameters and the equilibrium volume to the console.
 
 ## Task2-Visualizing Results
-In this Task, the visualization task aims to：
+
 1. Plot the actual data points from `eos.csv`.
 2. Generate a plot of the fitted energy-volume curve using `matplotlib.pyplot`.
 
